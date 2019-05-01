@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="30px" viewBox="0 0 24 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon_desenvolvedor</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Landing:-320px" transform="translate(-23.000000, -916.000000)" stroke="#0086FF">
+            <g id="03.-Lorem-ipsum" transform="translate(0.000000, 670.000000)">
+                <g id="dev" transform="translate(15.000000, 240.000000)">
+                    <g id="icon_desenvolvedor" transform="translate(0.000000, 1.000000)">
+                        <g id="Group-11" transform="translate(8.000000, 5.600000)">
+                            <path d="M23.2720803,7.15224011 L23.2720803,25.8394404 C23.2720803,27.2802404 22.1040803,28.4394404 20.6720803,28.4394404 L3.08008005,28.4394404 C1.64008002,28.4394404 0.480080007,27.2802404 0.480080007,25.8394404 L0.480080007,3.07144005 C0.480080007,1.63944002 1.64008002,0.480240007 3.08008005,0.480240007 L16.5920802,0.480240007 C20.2800803,0.480240007 23.2720803,3.46424005 23.2720803,7.15224011 Z" id="Stroke-1" stroke-width="0.960000014"></path>
+                            <path d="M23.2681603,8.08736012 L18.1057603,8.08736012 C17.6457603,8.08736012 17.2721603,7.71376011 17.2721603,7.25296011 L17.2721603,0.64656001" id="Stroke-3" stroke-width="0.960000014"></path>
+                            <polyline id="Stroke-5" stroke-width="0.960000014" points="8.20328012 9.85848015 4.44008007 13.5032802 8.15368012 17.3384803"></polyline>
+                            <polyline id="Stroke-7" stroke-width="0.960000014" points="15.5447202 21.7288003 19.3087203 18.0840003 15.5943202 14.2488002"></polyline>
+                            <path d="M13.8337602,9.85848015 L9.62816014,22.3480803" id="Stroke-9" stroke-width="0.960000014"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

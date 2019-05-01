@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="38px" viewBox="0 0 10 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>chave</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing:-1366px" transform="translate(-141.000000, -926.000000)" stroke="#0086FF" stroke-width="2">
+            <g id="03.-Lorem-ipsum" transform="translate(141.000000, 590.000000)">
+                <g id="box_filtros" transform="translate(0.000000, 80.000000)">
+                    <g id="btn_item02-(ativo)" transform="translate(0.000000, 256.000000)">
+                        <path d="M1,1 L1,37 L9,37 L9,1 L1,1 Z" id="chave" transform="translate(5.000000, 19.000000) scale(-1, 1) translate(-5.000000, -19.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

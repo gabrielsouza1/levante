@@ -1,0 +1,152 @@
+.img-thumbnail{	border: 1px solid #000000;	border-radius: 5px;} #id{	height: 16.47px;	width: 61.76px;}
+	.header-home{background-image:-webkit-linear-gradient(45deg, #027EC6 0%, #032977 100%);position: relative;padding-top: 185px;padding-bottom: 180px;overflow: hidden;z-index: 1;background-repeat: no-repeat;}
+.shadow{height: 475px;width: 573px;}
+.vitae{padding: 0 140px}
+.menu-item{	color: #444444;	font-family: "Open Sans";	font-size: 18px;	line-height: 24px; padding: 0 140px;}
+.menu-item ul li{text-decoration: none;}
+.lorem-text{margin:25px;}
+.lorem-text h1{font-size: 16px;color:#0086FF;}
+.lorem-text h2{font-size: 34px;line-height: 40px;font-weight: bold;color:#0086FF}
+.lorem-text p{font-size: 16px;line-height: 26px;color: #444444;padding: 0 27px;}
+.lorem-text span{color: black;}
+.col-header-text{color:white;}
+.header-text h1{font-size: 36px;line-height: 70px;letter-spacing: 0.05px;font-weight: 300;color: white;}
+.col-header-text p{font-size: 18px;line-height: 30px;margin:25px 0 54px;font-family: "Open Sans";line-height: 30px;font-weight: 300;}
+.col-header-text h2{color: white;font-size: 80px;font-weight: bold;letter-spacing: -2px;}
+.col-header-img{position: relative;}.col-header-img img{position: absolute;}
+.btn .text{height: 40px;width: 119.64px;border-radius: 18.5px;margin-top: 20px;border: 1px solid #ffffff}
+.btn .enviar{font-size: 18px;text-align: center;color: #FFFFFF}
+.location{border:1px solid white;border-radius: 50px;}
+.media-body span{	color: #0086FF;}.media-body{font-family: "Open Sans";	font-size: 16px;font-family: "Open Sans";	font-size: 16px;}
+.media{
+	margin-top: 431px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    height: 31px;
+    width: 666px;}			
+/*SCROLL*/
+@keyframes ani-mouse{
+	0%{
+		opacity: 1;
+		top: 29%;
+	}
+	15%{
+		opacity: 1;
+		top: 50%;
+	}
+	50%{
+		opacity: 0;
+		top: 50%;
+	}
+	100%{
+		opacity: 0;
+		top: 50%;
+	}
+}
+
+.scroll-btn{
+	display: block;
+	position: absolute;
+	left: 0;
+	right: 0;
+	text-align: center;
+	margin-top: -30px;
+}
+.scroll-btn > *{
+	display: inline-block;
+	line-height: 18px;
+	font-size: 13px;
+	font-weight: normal;
+	color: #ffffff;
+	font-family: tahoma;
+	letter-spacing: 2px;
+	margin-top: 144px;
+}
+.scroll-btn > *:hover,
+.scroll-btn > *:focus,
+.scroll-btn > *:active,
+.scroll-btn > *.active{
+opacity: 0.8;
+filter: alpha(opacity=80) 
+}
+.scroll-btn .mouse{
+	position: relative;
+	display: block;
+	width: 35px;
+	height: 55px;
+	margin: 0 auto 20px;
+	box-sizing: border-box;
+	border: 3px solid white;
+	border-radius: 23px;
+	margin-top: -39px
+}
+
+.scroll-btn .mouse > *{
+	position: absolute;
+	display: black;
+	top: 29%;
+	left: 50%;
+	width: 8px;
+	height: 8px;
+	margin: -4px 0 0 -4px;
+	background:white;
+	border-radius: 50%;
+	animation: ani-mouse 2.5s linear infinite;
+}
+p{margin-left: -55px}
+.menu-item ul li a:after{
+color: #0086FF;}
+.menu-item ul li a:before{
+	content: url(chave.png);
+	position:absolute;
+	left: 0;
+	opacity: 0;
+	transform: .6s;
+}
+.menu-item ul li a:after{
+	content: url(chave.png);
+	position:absolute;
+	right: 0;
+	opacity: 0;
+	transform: .6s;
+}
+
+/*formulario de contato*/
+.input{position: relative;
+width: 100%;
+height: 50px;
+background:transparent;
+border: none;
+outline: none;
+font-size:
+18px;
+border-bottom: 1px solid rgba(0,134,255);}
+.inputBox .mensagem{margin-top: 39px;}
+.inputBox label{color: #0086FF;	font-family: "Open Sans";	font-size: 18px;	font-weight: bold;}
+
+
+
+
+
+
+/*mobile firsh*/
+@media (max-width: 767px) {
+ .col-header-text p{height: 120px;	width: 290px;	color: #FFFFFF;	font-family: "Open Sans";	font-size: 18px;	font-weight: 300;	line-height: 30px;}
+ .btn span {	height: 24px;	width: 78px;	color: #FFFFFF;	font-family: Roboto;	font-size: 20px;	font-weight: bold;	line-height: 24px;	text-align: center;}
+  .vitae{margin-top: 25px;}.inputBox label{font-size: 18px;	line-height: 17px;}.inpuText{font-size: 18px;font-weight: bold}
+  .btn{width: 194px;
+    height: 48px;
+    border: 1px solid #FFFFFF;}
+  /*desnecessario*/
+#mouse {display: none !important;}
+#menu-item {display: none !important;}
+.btn{margin-top: -5px;}
+}#menu-item{display:none !important}
+#hr{display: none !important;}
+#desnecessario{display: none !important;}
+ @media only screen and (min-width: 500px) {
+    .desktop-hide{ display: none !important; }
+    }
+    @media only screen and (max-width: 400px) {
+   .mobile-hide{ display: none !important; }
+    }

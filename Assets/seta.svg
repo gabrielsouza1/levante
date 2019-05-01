@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="8px" viewBox="0 0 16 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>seta</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing:-320px" transform="translate(-289.000000, -1139.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="03.-Lorem-ipsum" transform="translate(0.000000, 670.000000)">
+                <g id="aplicativos" transform="translate(0.000000, 446.000000)">
+                    <g id="item01">
+                        <g id="barra">
+                            <path d="M304.701698,23.2805743 C305.099442,23.6546658 305.099433,24.2611794 304.701678,24.6352603 L298.592713,30.3806201 C297.715344,31.2063915 296.28503,31.2064433 295.407558,30.3808756 L289.298322,24.6352603 C288.900567,24.2611794 288.900558,23.6546658 289.298302,23.2805743 C289.696046,22.9064828 290.340925,22.9064741 290.73868,23.280555 L296.848057,29.0263028 C296.930043,29.1034393 297.069994,29.1034329 297.152084,29.0261703 L303.26132,23.280555 C303.659075,22.9064741 304.303954,22.9064828 304.701698,23.2805743 Z" id="seta"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
